@@ -1,0 +1,3 @@
+[submodule "lib/pugihtml"]
+	path = lib/pugihtml
+	url = https://github.com/rofldev/pugihtml.git
